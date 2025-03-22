@@ -2,7 +2,9 @@
 
 ## How to use
 
-1. Install dependencies
+1. Forl and clone project
+
+2. Install dependencies
 
 ```
 pip3 install imageio
