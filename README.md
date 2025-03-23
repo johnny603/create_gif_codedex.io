@@ -2,7 +2,7 @@
 
 ## How to use
 
-1. Forl and clone project
+1. Fork and clone project
 
 2. Install dependencies
 
